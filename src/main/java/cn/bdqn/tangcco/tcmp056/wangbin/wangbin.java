@@ -9,6 +9,6 @@ public class wangbin {
 
     @Test
     public void Test() {
-        
+        System.out.println("Hello World");
     }
 }
